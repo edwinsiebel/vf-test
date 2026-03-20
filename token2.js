@@ -6,4 +6,4 @@ const tokenItems = Object.fromEntries(
 
 console.log(tokenItems);
 
-alert(tokenItems);
+alert(JSON.stringify(tokenItems));

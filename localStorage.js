@@ -1,1 +1,1 @@
-alert(localStorage);
+alert(JSON.stringify(localStorage));
